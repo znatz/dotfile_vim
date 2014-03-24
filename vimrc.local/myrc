@@ -15,5 +15,6 @@ let g:neocomplcache_source_rank = {
   \ }
 
 let g:jscomplete_use = ['dom']
+" SCHEME SETTINGS
 "colorscheme iceberg
 colorscheme kolor
